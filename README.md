@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hola mi nombre es <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Stronjol</i></a> 😃️</h1>
+  <h1 align="center">Hola mi nombre es <a href="https://www.facebook.com/jesusP.ponce/"><i>Stronjol</i></a> 😃️</h1>
   <p align="center">Estudio actualmente en el Tecnologico de Estudios Superior de Chimalhuacan "TESCHI" <i></i></a> Aqui Te dejo mi canal de youtube donde encontraras videos de minecraft. <a href="https://www.youtube.com/channel/UClgtyO-h8SihHpkYSX5tBlA"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="center"> Mes gusta mucho programar paginas web, tambien programar bots de Discord y me quiero especializar en Redes Computacionales.
   <a align="rigth"  href="https://www.youtube.com/channel/UClgtyO-h8SihHpkYSX5tBlA" target="_blank">
